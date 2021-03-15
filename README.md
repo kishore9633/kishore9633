@@ -12,11 +12,13 @@
 
 I'm Shivakishore from Hyderabad, and I do content on development. I really enjoy learning and building MERN applications.
 
-Skills: Javascript React Node.Js
-
 - 🔭 I’m currently working on Compliance Group 
 - 🌱 I’m currently learning React || DevOps 
 - ⚡ Fun fact: The first computer bug was an actual bug 
+
+
+Skills: Javascript React Node.Js
+
 
 
 
