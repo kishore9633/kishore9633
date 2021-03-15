@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi there 👋,  Shivakishore
 ####  MERN STACK || DevOps
