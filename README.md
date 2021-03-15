@@ -27,10 +27,10 @@ I'm Shivakishore from Hyderabad, and I do content on development. I really enjoy
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishore9633)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishore9633&show_icons=true&count_private=true)  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kishore9633&show_icons=true&theme=gotham" alt="kishore9633" />
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kishore9633)  
 
