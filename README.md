@@ -32,5 +32,5 @@ I'm Shivakishore from Hyderabad, and I do content on development. I really enjoy
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kishore9633&show_icons=true&theme=gotham" alt="kishore9633" />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kishore9633)  
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore9633&theme=gotham")  
 
