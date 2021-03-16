@@ -10,7 +10,13 @@
 ####  MERN STACK && DevOps
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kishore9633)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shivakishore-nalamothu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kishore_3699/)  
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shivakishore-nalamothu">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+
+<a href="https://www.instagram.com/kishore_3699/">
+  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
 
 
 I'm Shivakishore from Hyderabad, and I do content on web development. I really enjoy learning and building MERN applications.
