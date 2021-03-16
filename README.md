@@ -6,8 +6,12 @@
 
 <br/>
 
-### Nalamothu Shivakishore
-####  MERN STACK && DevOps
+
+
+
+I'm Shivakishore from Hyderabad, and I do content on web development. I really enjoy learning and building MERN applications.
+
+
 
 <p>Where to find me </P>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shivakishore-nalamothu">
@@ -18,12 +22,11 @@
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 
-
-I'm Shivakishore from Hyderabad, and I do content on web development. I really enjoy learning and building MERN applications.
-
 - 🔭 I’m currently working on Compliance Group 
 - 🌱 I’m currently learning React || DevOps 
 - ⚡ Fun fact: The first computer bug was an actual bug 
+
+
 
 
 **Languages and Tools:**  
